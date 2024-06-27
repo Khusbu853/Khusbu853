@@ -12,8 +12,7 @@
 - 💬 Ask me about **react, MERN, JavaScript**
 
 - 📫 How to reach me **guptakhusbu244@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RQpnI-3_uluAKki2HiAcR86VbR0-pliL/view?usp=sharing](https://drive.google.com/file/d/1RQpnI-3_uluAKki2HiAcR86VbR0-pliL/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
