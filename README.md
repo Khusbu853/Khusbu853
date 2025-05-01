@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khusbu Gupta</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khusbu853&label=Profile%20views&color=0e75b6&style=flat" alt="khusbu853" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khusbu853" alt="khusbu853" /></a> </p>
 
-- 🔭 I’m currently working on a **ERP Healthcare Software**
+- 🔭 I’m currently working in **QEST as a Software Developer**
 
 - 🌱 I’m currently learning **Nodejs, MySQL, MongoDB**
 
