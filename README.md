@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khusbu853" alt="khusbu853" /></a> </p>
 
-- 🔭 I’m currently working in **QEST as a Software Developer**
-
-- 🌱 I’m currently learning **Nodejs, MySQL, MongoDB**
+- 🔭 I’m currently working in **ZingHr as a Software Developer**
 
 - 💬 Ask me about **react, MERN, JavaScript**
 
