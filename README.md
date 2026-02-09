@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **ZingHr as a Software Developer**
 
-- 💬 Ask me about **react, MERN, JavaScript**
+- 💬 Ask me about **react, MERN, React native, JavaScript**
 
 - 📫 How to reach me **guptakhusbu244@gmail.com**
   
